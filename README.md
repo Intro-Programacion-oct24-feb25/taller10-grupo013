@@ -1,4 +1,7 @@
 # Taller 10 (Laboratorio):
+### Integrantes:
+- **Sánchez Armijos Luis Eduardo**
+- **Poma Torres Emilio José**
 ## Construcción de programas usando arreglos bidimensionales
 
 * Lenguaje de programación : Java
